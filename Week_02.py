@@ -21,7 +21,7 @@ for i in range (0,5):
 print("min :",b)
 
 #Given an integer array arr[] and an integer k, your task is to find and return
-# the kth smallest element in the given array
+#the kth smallest element in the given array
 arr = [10, 5, 4, 3, 48, 6, 2, 33, 53, 10]
 k = 4
 n = len(arr)
